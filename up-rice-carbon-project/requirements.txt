@@ -1,0 +1,10 @@
+geopandas==1.1.4
+rasterio==1.5.1
+rasterstats==0.21.0
+numpy==2.4.4
+matplotlib==3.10.8
+scipy==1.17.1
+scikit-learn==1.8.0
+pytest==9.1.1
+jupyter==1.1.1
+nbformat==5.11.0
